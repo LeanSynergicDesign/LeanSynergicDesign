@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: all 0.4s;
 }
 
-    .back-home i,span {
+    .back-home i {
         font-size: 14px;
         /*color: #fff;*/
         color: #0678e3;
