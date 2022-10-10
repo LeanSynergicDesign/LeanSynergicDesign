@@ -46,7 +46,7 @@ function submitter(e) {
             date: today,
             name: myName.value,
             email: myEmail.value,
-            subject: mySubject.value,
+            /*subject: mySubject.value,*/
             message: myMessage.value
         };
         myForm.style.display = 'none';
